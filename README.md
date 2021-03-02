@@ -1,6 +1,7 @@
 # NodeJs-Interview-Questions
 A collection of Interview Questions
 
+```js
 
 How to create a simple server in NodeJs without express.js?
 
@@ -13,3 +14,4 @@ res.writeHead(200,{'Content-Type':'text/plain'});
 res.end('Hello World\n');
 
 }).listen(1320,'127.0.0.3');
+```
