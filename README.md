@@ -1,12 +1,12 @@
 # NodeJs-Interview-Questions
 A collection of Interview Questions
 
-```js
 
 How to create a simple server in NodeJs without express.js?
 
 By writing following line of code, you can create a server in Node Js.
 
+```js
 var http =require('http');
 http.createServer(function(req,res){
 
