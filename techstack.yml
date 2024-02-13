@@ -1,0 +1,20 @@
+repo_name: fairushyn/NodeJs-Interview-Questions-2
+report_id: d46a51c2dcda856979e704595f64eee2
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:04:45+00:00'
+requested_by: maheshruparel
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/NodeJs-Interview-Questions-2
+  detection_source: Repo Metadata
